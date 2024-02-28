@@ -2,3 +2,5 @@
 A voir comment creer un merge avec git 
 ------------------------------------------
 Ceci est la midification ultime de evo2
+
+Evo2 est la meilleur pas vrai
